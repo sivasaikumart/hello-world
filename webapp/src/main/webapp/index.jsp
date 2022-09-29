@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, shivasai from hyderabad moosapet </h1>
+   <h1> Thankyou, shivasai from anantapur</h1>
 
   
 </form>
